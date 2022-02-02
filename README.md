@@ -21,5 +21,5 @@ My Personal Favorites:
 * Cherry Desert Pizza
 * Tuscan Roma
 
-Go to this **[page](AboutMe.md)** for more information about me. 
+Go to this **[page](https://github.com/HarshithaGongidi/AboutMe.md.git)** for more information about me. 
 
