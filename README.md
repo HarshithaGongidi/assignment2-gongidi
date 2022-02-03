@@ -38,5 +38,5 @@ The following table shows you the sports that you can participate in, it include
 ---
 
 ## Favorite Quotes
-> The purpose of our lives is to be happy. - *Dalai Lama*
+> The purpose of our lives is to be happy. - *Dalai Lama* <br>
 > Believe you can and you're halfway there. - *Theodore Roosevelt*
