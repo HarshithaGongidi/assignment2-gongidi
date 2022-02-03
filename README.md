@@ -34,5 +34,5 @@ The following table shows you the sports that you can participate in, it include
 | Cricket | NWMSU | $25 | 
 | Bowling | NWMSU | $10 | 
 | Running | NWMSU | $15 |
->>>>>>> f37786b78d662f16700915f4af17f8cd2be62b55
+
 
