@@ -30,8 +30,8 @@ The following table shows you the sports that you can participate in, it include
 
 | Sport/Activity | | Location | | Charge |
 |:----------------| |:----------| |:--------|
-| Archery         | | NWMSU     | | $30     |
-| Cricket         | | NWMSU     | | $25     | 
-| Bowling         | | NWMSU     | | $10     | 
-| Running         | | NWMSU     | | $15     |
+| Archery | | NWMSU | | $30 |
+| Cricket | | NWMSU | | $25 | 
+| Bowling | | NWMSU | | $10 | 
+| Running | | NWMSU | | $15 |
 
