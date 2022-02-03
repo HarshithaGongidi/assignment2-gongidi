@@ -47,7 +47,7 @@ The following table shows you the sports that you can participate in, it include
 > About graph algorithm max flow. <br>
 <https://www.hackerearth.com/practice/algorithms/graphs/maximum-flow/tutorial/>
 
-Code for the Alogoritm for max flow:
-``` \sum _{(s,u)\in E}f(s,u)=\sum _{(v,t)\in E}f(v,t) ```
+Code for the Alogoritm for max flow:<br>
+``` \sum _{(s,u)\in E}f(s,u)=\sum _{(v,t)\in E}f(v,t) ``` <br>
 Source: <https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm>
 
