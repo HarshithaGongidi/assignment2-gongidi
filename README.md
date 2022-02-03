@@ -26,12 +26,12 @@ Go to this **[page](https://github.com/HarshithaGongidi/AboutMe.md.git)** for mo
 ---
 
 ## Recommended Sports
-The following table shows you the sports that you can participate in, it included the sports name, the location and cost for personal equipment. 
+The following table shows you the sports that you can participate in, it included the sports name, the location and cost for personal equipment.
 
-| Sport/Activity | | Location | | Charge |
---- | --- | --- |
-| Archery | | NWMSU | | $30 |
-| Cricket | | NWMSU | | $25 | 
-| Bowling | | NWMSU | | $10 | 
-| Running | | NWMSU | | $15 |
+| Sport/Activity | Location | Charge |
+|:-------:| :---: | :-: |
+| Archery | NWMSU | $30 |
+| Cricket | NWMSU | $25 | 
+| Bowling | NWMSU | $10 | 
+| Running | NWMSU | $15 |
 
